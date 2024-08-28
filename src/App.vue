@@ -1,10 +1,11 @@
 <script setup>
-import AssetAllocationCalculator from './components/AssetAllocationCalculator.vue'
+import Fresh from './components/Fresh.vue'
 </script>
 
 <template>
-  <AssetAllocationCalculator />
+  <Fresh />
 </template>
 
 <style scoped>
+
 </style>

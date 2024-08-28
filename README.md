@@ -94,10 +94,10 @@ Run the local development environment (Vite + Vue.js) within Docker following th
 - Must
   - [x] Setup Docker (containerize/secure environment from possible malicious NPM packages plus broader and more reliable for engineers with different OSes as well as consistencies with online servers)
   - [x] Create/Update README
-  - [ ] Import CSS framework
+  - [x] Import CSS framework
   - [x] Build UI form
   - [x] Request data from API; Proxy
-  - [ ] Add assignment calculations for UI ⚠️ JavaScript is notoriously bad with numbers/currency
+  - [x] Add assignment calculations for UI ⚠️ JavaScript is notoriously bad with numbers/currency
 - Should
   - [ ] Add API retry
   - [ ] Add API on fail UI
